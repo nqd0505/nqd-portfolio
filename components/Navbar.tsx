@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 import { useRouter } from "next/router";
-import userData from "@constants/data";
+import userData from "constants/data";
 
 export default function Navbar() {
   const router = useRouter();
@@ -132,7 +132,7 @@ export default function Navbar() {
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
-          <a href={userData.socialLinks.instagram} x>
+          <a href={userData.socialLinks.instagram}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"

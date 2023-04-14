@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
+  githubUsername: "nqd0505",
+  name: "Dao Nguyen",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "quangdao5595@gmail.com",
+  phone: "+84 393142990",
+  address: "Hanoi, Vietnam",
   projects: [
     {
       title: "Tailwind Master Kit",
